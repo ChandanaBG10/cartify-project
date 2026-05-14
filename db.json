@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung F23",
+      "price": 15000,
+      "img": "https://i0.wp.com/www.chooseyourmobile.com/wp-content/uploads/2022/03/Samsung-Galaxy-F23-5G-Copper.jpg?ssl=1",
+      "category": "Electronics",
+      "description": "Qualcomm Snapdragon 750G, 6GB RAM, 128GB Storage, 5000mAh Battery",
+      "rating": 4.2
+    },
+    {
+      "id": "2",
+      "name": "Apple iPhone 13",
+      "price": 70000,
+      "img": "https://i5.walmartimages.com/seo/NIFFPD-Phone-Case-for-iPhone-13-Pro-6-1-Clear-Flower-Soft-Flexible-Shockproof-Floral-Cover-iPhone-13-Pro-Case-for-Women-Cute-Hibiscus_e8733acb-f59f-404f-b686-8df5eff3b2e4.ffd82f6f8fcfec9eb80cd77cd61cc39d.jpeg",
+      "category": "Electronics",
+      "description": "A15 Bionic chip, 6GB RAM, 128GB Storage, 3240mAh Battery",
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "name": "OnePlus 9 Pro",
+      "price": 65000,
+      "img": "https://www.chooseyourmobile.com/wp-content/uploads/2021/03/OnePlus-9-Pro-Colors.jpg",
+      "category": "Electronics",
+      "description": "Qualcomm Snapdragon 888, 8GB RAM, 128GB Storage, 4500mAh Battery",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "Sneakers",
+      "price": 5000,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.ASgCrYu8u0ILwmi8xAjkfAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "category": "Fashion",
+      "description": "Comfortable and stylish sneakers for everyday wear.",
+      "rating": 4.3
+    }
+  ],
+  "orders": [
+    {
+      "productId": "1",
+      "productName": "Samsung F23",
+      "productPrice": 15000,
+      "productImage": "https://i0.wp.com/www.chooseyourmobile.com/wp-content/uploads/2022/03/Samsung-Galaxy-F23-5G-Copper.jpg?ssl=1",
+      "totalPrice": 15000,
+      "customer": {
+        "name": "Chandana",
+        "email": "chandanac641@gmail.com",
+        "phone": "9535599391",
+        "address": "Bengaluru"
+      },
+      "date": "14/5/2026, 6:42:21 pm",
+      "status": "pending",
+      "id": "PIAgcvQ5bGk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
