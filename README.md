@@ -37,7 +37,7 @@ Cartify is a responsive e-commerce web application built using React.js where us
 ![Products](./screenshots/Productpage.png)
 
 ## Product Detail Page
-![Product Detail](./screenshots/Productdetail.png)
+![Product Detail](./screenshots/Productdetails.png)
 
 ## Billing Page
 ![Billing](./screenshots/Billing.png)
